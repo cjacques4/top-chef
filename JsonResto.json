@@ -1,111 +1,613 @@
-{"name":"Kei","stars":2,"street":"5 rue du Coq-Héron","postalCode":"75001","city":"Paris 01"}
-{"name":"L'Essentiel","stars":1,"street":"29 Rue Mirabeau","postalCode":"14800","city":"DEAUVILLE"}
-{"name":"Les Rosiers","stars":1,"street":"32 av. Beau Soleil","postalCode":"64200","city":"Biarritz"}
-{"name":"Dyades au Domaine des Étangs","stars":1,"street":"Les Etangs","postalCode":"16310","city":"MASSIGNAC"}
-{"name":"Auberge au Boeuf","stars":1,"street":"Rue de l'Eglise","postalCode":"67770","city":"Sessenheim"}
-{"name":"Auguste","stars":1,"street":"54 r. Bourgogne","postalCode":"75007","city":"Paris 07"}
-{"name":"Le Bénaton","stars":1,"street":"25 Rue du Faubourg-Bretonnière","postalCode":"21200","city":"BEAUNE"}
-{"name":"Le Pressoir d'Argent - Gordon Ramsay","stars":2,"street":"2,5 Place de la Comédie","postalCode":"33000","city":"Bordeaux"}
-{"name":"La Marelle","stars":1,"street":"1593 av. de Lyon","postalCode":"01960","city":"Péronnas"}
-{"name":"La Maison dans le Parc","stars":1,"street":"3 r. Ste-Catherine","postalCode":"54000","city":"Nancy"}
-{"name":"Le Jardin de Benjamin","stars":1,"street":"Route de Salernes","postalCode":"83510","city":"Lorgues"}
-{"name":"L'Olivier","stars":1,"street":"25 Route des Carles","postalCode":"83990","city":"Saint-Tropez"}
-{"name":"Aux Anges","stars":1,"street":"6 Place Georges Clemenceau","postalCode":"42300","city":"Roanne"}
-{"name":"Xavier Mathieu","stars":1,"street":"Route de Murs","postalCode":"84220","city":"Joucas"}
-{"name":"La Ville Blanche","stars":1,"street":"La Ville Blanche","postalCode":"22300","city":"Rospez"}
-{"name":"Le Cerisier","stars":1,"street":"3 rue de la Gare","postalCode":"62840","city":"LAVENTIE"}
-{"name":"Les Terrasses d'Uriage","stars":2,"street":"pl. Déesse-Hygie","postalCode":"38410","city":"Uriage-les-Bains"}
-{"name":"Le Kléber","stars":1,"street":"6 r. A. -Dumont","postalCode":"26400","city":"Crest"}
-{"name":"Château de Courban","stars":1,"street":"7 rue du Lavoir","postalCode":"21520","city":"Courban"}
-{"name":"Le Cap","stars":1,"street":"71 Boulevard du Général-de-Gaulle","postalCode":"06230","city":"SAINT-JEAN-CAP-FERRAT"}
-{"name":"La Voile","stars":1,"street":"chemin de la Quessine","postalCode":"83350","city":"Ramatuelle"}
-{"name":"Ithurria","stars":1,"street":"pl. du Fronton","postalCode":"64250","city":"Ainhoa"}
-{"name":"L'Auberge Basque","stars":1,"street":"quartier Helbarron","postalCode":"64310","city":"Saint-Pée-sur-Nivelle"}
-{"name":"Chez Michèle","stars":1,"street":"57 rue Principale","postalCode":"57810","city":"Languimberg"}
-{"name":"Le Petit Nice","stars":3,"street":"Anse de Maldormé - Corniche J. F. Kennedy","postalCode":"13007","city":"Marseille 07"}
-{"name":"Auberge de la Mine","stars":1,"street":"le Gué-Plat","postalCode":"61450","city":"La Ferrière-aux-Étangs"}
-{"name":"Le Pergolèse","stars":1,"street":"40 Rue Pergolèse","postalCode":"75116","city":"Paris"}
-{"name":"Château de Mercuès","stars":1,"street":"Route du Château","postalCode":"46090","city":"Mercuès"}
-{"name":"La Chaumière","stars":1,"street":"346 av. du Mar. -Juin","postalCode":"39100","city":"Dole"}
-{"name":"La Fourchette des Ducs","stars":2,"street":"6 r. de la Gare","postalCode":"67210","city":"Obernai"}
-{"name":"En Marge","stars":1,"street":"1204 route de la Croix-Falgarde","postalCode":"31320","city":"AUREVILLE"}
-{"name":"Pierre Gagnaire","stars":3,"street":"6 Rue Balzac","postalCode":"75008","city":"Paris 08"}
-{"name":"Le Moulin de l'Abbaye","stars":1,"street":"1 avenue Pierre de Bourdeilles","postalCode":"24310","city":"BRANTOME"}
-{"name":"Loiseau des Vignes","stars":1,"street":"31 Rue Jean Francois Maufoux","postalCode":"21200","city":"Beaune"}
-{"name":"Aigue Marine","stars":1,"street":"5 r. M. -Berthelot","postalCode":"22220","city":"Tréguier"}
-{"name":"L'Atelier Yssoirien","stars":1,"street":"39 Boulevard Triozon-Bayle","postalCode":"63500","city":"Issoire"}
-{"name":"Les Explorateurs","stars":1,"street":"place du Slalom","postalCode":"73440","city":"VAL THORENS"}
-{"name":"Château d'Adoménil","stars":1,"street":"","postalCode":"54300","city":"Lunéville"}
-{"name":"Les Clefs d'Argent","stars":1,"street":"333 Avenue des Martyrs de la Résistance","postalCode":"40000","city":"Mont-de-Marsan"}
-{"name":"Le Pavillon","stars":1,"street":"av. du Verger","postalCode":"62520","city":"Le Touquet-Paris-Plage"}
-{"name":"Flocons de Sel","stars":3,"street":"1775 rte du Leutaz","postalCode":"74120","city":"Megève"}
-{"name":"Mon Plaisir","stars":1,"street":"22 lieu-dit Journal","postalCode":"25190","city":"Chamesol"}
-{"name":"La Table de l'Espadon","stars":2,"street":"15 Place Vendôme","postalCode":"75001","city":"Paris"}
-{"name":"Maison Christian Étienne","stars":1,"street":"10 Rue de Mons","postalCode":"84000","city":"Avignon"}
-{"name":"La Table d'Uzès","stars":1,"street":"18 rue du Docteur Blanchard","postalCode":"30700","city":"Uzès"}
-{"name":"Le Saison","stars":1,"street":"1 imp. du Vieux-Bourg","postalCode":"35760","city":"Saint-Grégoire"}
-{"name":"Le Petit Hôtel du Grand Large","stars":1,"street":"11 quai St-Ivy","postalCode":"56510","city":"Portivy"}
-{"name":"Le Moulin de la Gorce","stars":1,"street":"D17","postalCode":"87800","city":"La Roche-l'Abeille"}
-{"name":"Passage 53","stars":2,"street":"53 passage des Panoramas","postalCode":"75002","city":"Paris"}
-{"name":"Logis de la Cadène","stars":1,"street":"Place du Marche au Bois","postalCode":"33330","city":"Saint Emilion"}
-{"name":"Auberge St-Laurent","stars":1,"street":"1 rue Fontaine","postalCode":"68510","city":"Sierentz"}
-{"name":"Hervé Busset","stars":1,"street":"D901","postalCode":"12320","city":"Conques"}
-{"name":"L'Amphitryon","stars":1,"street":"127 r. du Col. -Müller","postalCode":"56100","city":"Lorient"}
-{"name":"Le Vivier","stars":1,"street":"800 cours F. Peyre (rte de Carpentras)","postalCode":"84800","city":"L'Isle-sur-la-Sorgue"}
-{"name":"La Gourmandière - La Table d'Olivier","stars":1,"street":"D126","postalCode":"56000","city":"Vannes"}
-{"name":"L'Auberge de la Pomme","stars":1,"street":"44 rue de l' eure","postalCode":"27340","city":"Les Damps"}
-{"name":"Fontevraud Le Restaurant","stars":1,"street":"38 rue St-Jean-de-l'Habit","postalCode":"49590","city":"FONTEVRAUD-L'ABBAYE"}
-{"name":"Le Mascaret","stars":1,"street":"1 r. de Bas","postalCode":"50560","city":"Blainville-sur-Mer"}
-{"name":"Les Terrasses de Lyon","stars":1,"street":"25, montée Saint BArthelémy","postalCode":"69005","city":"Lyon 05"}
-{"name":"La Table du Connétable","stars":1,"street":"4 Rue du Connétable","postalCode":"60500","city":"Chantilly"}
-{"name":"La Passagère","stars":1,"street":"33 boulevard E. -Baudoin","postalCode":"06160","city":"Juan-les-Pins"}
-{"name":"Alléno Paris au Pavillon Ledoyen","stars":3,"street":"8 avenue Dutuit","postalCode":"75008","city":"Paris"}
-{"name":"Sylvestre","stars":2,"street":"79 rue St-Dominique","postalCode":"75007","city":"Paris"}
-{"name":"Flaveur","stars":2,"street":"25 Rue Gubernatis","postalCode":"06000","city":"Nice"}
-{"name":"Auberge de Clochemerle","stars":1,"street":"Rue Gabriel-Chevallier","postalCode":"69460","city":"VAUX-EN-BEAUJOLAIS"}
-{"name":"Auberge Frankenbourg","stars":1,"street":"13 r. Gén. de Gaulle","postalCode":"67730","city":"La Vancelle"}
-{"name":"L'Arôme","stars":1,"street":"3 rue St-Philippe-du-Roule","postalCode":"75008","city":"Paris 08"}
-{"name":"La Maison d'à Côté","stars":1,"street":"17 rue de Chambord","postalCode":"41350","city":"Montlivault"}
-{"name":"Alain Ducasse au Plaza Athénée","stars":3,"street":"25 avenue Montaigne","postalCode":"75008","city":"Paris"}
-{"name":"David Toutain","stars":1,"street":"29 r. Surcouf","postalCode":"75007","city":"Paris"}
-{"name":"Chapelle Saint-Martin","stars":1,"street":"33, Saint Martin du Fault","postalCode":"87510","city":"Nieul"}
-{"name":"Faventia","stars":1,"street":"3100 route de Bagnols-en-Forêt","postalCode":"83440","city":"Tourrettes"}
-{"name":"Montée","stars":1,"street":"9 r. Léopold-Robert","postalCode":"75014","city":"Paris"}
-{"name":"Le Passe Temps","stars":1,"street":"52 Rue Tronchet","postalCode":"69006","city":"Lyon"}
-{"name":"Serge Vieira","stars":2,"street":"Château du Couffour","postalCode":"15110","city":"Chaudes-Aigues"}
-{"name":"Le Raisin","stars":1,"street":"2 pl. M. -Poisat","postalCode":"01190","city":"Pont-de-Vaux"}
-{"name":"Cobéa","stars":1,"street":"11 r. Raymond Losserand","postalCode":"75014","city":"Paris 14"}
 {"name":"Qui plume la Lune","stars":1,"street":"50 r. Amelot","postalCode":"75011","city":"Paris 11"}
-{"name":"Le Figuier de St-Esprit","stars":1,"street":"7, Promenade Amiral de Grasse","postalCode":"06600","city":"Antibes"}
-{"name":"La Table de la Bergerie","stars":1,"street":"La Bergerie","postalCode":"49380","city":"Champ-sur-Layon"}
-{"name":"Le Manoir du Lys","stars":1,"street":"D235","postalCode":"61140","city":"Bagnoles-de-l'Orne"}
-{"name":"La Bonne Auberge","stars":1,"street":"15 r. Nationale","postalCode":"57350","city":"Stiring-Wendel"}
-{"name":"Hostellerie du Rosenmeer","stars":1,"street":"45 avenue de la Gare","postalCode":"67560","city":"ROSHEIM"}
-{"name":"Quai des Saveurs","stars":1,"street":"69 rue de la Gare","postalCode":"57300","city":"Hagondange"}
+{"name":"Le Saint-Estève","stars":1,"street":"2250 route cézanne D17","postalCode":"13100","city":"Le Tholonet"}
+{"name":"Le Pré Catelan","stars":3,"street":"Route de Suresnes","postalCode":"75016","city":"Paris"}
+{"name":"La Table de la Ferme","stars":1,"street":"Vallée de l'Ortolo","postalCode":"20100","city":"Sartène"}
 {"name":"L'Orangerie du Château","stars":1,"street":"1 Avenue du Docteur Jean Laigret","postalCode":"41000","city":"Blois"}
-{"name":"Domaine d'Auriac","stars":1,"street":"Route de Saint-Hilaire","postalCode":"11000","city":"Carcassonne"}
-{"name":"Le Domaine du Colombier","stars":1,"street":"270 Chemin de Malombre","postalCode":"26780","city":"Malataverne"}
-{"name":"Auberge à la Bonne Idée","stars":1,"street":"3 rue des Meuniers","postalCode":"60350","city":"SAINT-JEAN-AUX-BOIS"}
-{"name":"Hexagone","stars":1,"street":"85 Avenue Kléber","postalCode":"75016","city":"Paris"}
-{"name":"Le Carrousel","stars":1,"street":"14 rue du Pont de Morge","postalCode":"63350","city":"MARINGUES"}
-{"name":"Maison Rostang","stars":2,"street":"20 rue Rennequin","postalCode":"75017","city":"Paris"}
-{"name":"Auberge de l'Ill","stars":3,"street":"2 rue de Collonges-au-Mont d'Or","postalCode":"68970","city":"Illhaeusern"}
-{"name":"Le Sénéchal","stars":1,"street":"Sauveterre de Rouergue","postalCode":"12800","city":"Sauveterre-de-Rouergue"}
-{"name":"La Grande Maison de Bernard Magrez","stars":2,"street":"10 Rue Labottière","postalCode":"33000","city":"Bordeaux"}
-{"name":"Astrance","stars":3,"street":"4 r. Beethoven","postalCode":"75016","city":"Paris"}
-{"name":"Le Clair de la Plume","stars":1,"street":"2 Place du Mail","postalCode":"26230","city":"Grignan"}
-{"name":"La Scène","stars":1,"street":"33 Avenue George V","postalCode":"75008","city":"Paris"}
-{"name":"La Balette","stars":1,"street":"rte de Port-Vendres","postalCode":"66190","city":"Collioure"}
-{"name":"Anne de Bretagne","stars":2,"street":"163, Boulevard de la Tara","postalCode":"44770","city":"La Plaine-sur-Mer"}
-{"name":"Le Cinq","stars":3,"street":"31 av. George V","postalCode":"75008","city":"Paris 08"}
-{"name":"Le Kaïku","stars":1,"street":"17 r. de la République","postalCode":"64500","city":"Saint-Jean-de-Luz"}
-{"name":"Les Voiles d'Or","stars":1,"street":"2 chemin de la Falaise","postalCode":"76200","city":"Dieppe"}
-{"name":"Raphaël Vionnet","stars":1,"street":"43 Avenue du Général Leclerc","postalCode":"74200","city":"Thonon-les-Bains"}
-{"name":"Le Colombier","stars":1,"street":"r. Loucheur","postalCode":"76550","city":"Offranville"}
-{"name":"Likoké","stars":1,"street":"7 rte de Païolive","postalCode":"07140","city":"Les Vans"}
-{"name":"Ed.Em","stars":1,"street":"4 imp. Chenevottes","postalCode":"21190","city":"Chassagne-Montrachet"}
-{"name":"Shang Palace","stars":1,"street":"10 Avenue d'Iéna","postalCode":"75016","city":"Paris 16"}
-{"name":"L'Ekrin by Laurent Azoulay","stars":1,"street":"Route de la Montée","postalCode":"73550","city":"MERIBEL"}
-{"name":"Le Clos des Sens","stars":2,"street":"13 r. J. -Mermoz","postalCode":"74940","city":"Annecy"}
+{"name":"Le Jardin des Remparts","stars":1,"street":"10 rue Hôtel-Dieu","postalCode":"21200","city":"Beaune"}
+{"name":"Le Saint-James","stars":1,"street":"3 pl. Camille-Hostein","postalCode":"33270","city":"BOULIAC"}
+{"name":"Les Bas-Rupts","stars":1,"street":"181 rte de la Bresse","postalCode":"88400","city":"Bas-Rupts"}
+{"name":"Le Restaurant","stars":1,"street":"13 rue des Beaux-Arts","postalCode":"75006","city":"Paris 06"}
+{"name":"JY'S","stars":2,"street":"17 r. de la Poissonnerie","postalCode":"68000","city":"Colmar"}
+{"name":"Frédéric Doucet","stars":1,"street":"2 avenue de la Libération","postalCode":"71120","city":"Charolles"}
+{"name":"La Table d'Hôtes - Le Quatrième Mur","stars":1,"street":"2 pl. de la Comédie","postalCode":"33000","city":"Bordeaux"}
+{"name":"Auberge de l'Île Barbe","stars":1,"street":"1 Place Notre-Dame","postalCode":"69009","city":"Lyon 09"}
+{"name":"Le 39V","stars":1,"street":"39 Avenue George V","postalCode":"75008","city":"Paris 08"}
+{"name":"La Table","stars":1,"street":"32 Rue de la Barre","postalCode":"59000","city":"Lille"}
+{"name":"Stéphane Derbord","stars":1,"street":"10 Place du Président Wilson","postalCode":"21000","city":"Dijon"}
+{"name":"Comice","stars":1,"street":"31 av. de Versailles","postalCode":"75016","city":"Paris"}
+{"name":"Le Clarence","stars":2,"street":"31 Avenue Franklin Delano Roosevelt","postalCode":"75008","city":"Paris 08"}
+{"name":"1920","stars":2,"street":"373 chemin des follières","postalCode":"74120","city":"Megève"}
+{"name":"Relais de la Poste","stars":1,"street":"21 rue du Gén. -de-Gaulle","postalCode":"67610","city":"LA-WANTZENAU"}
 {"name":"Il Cortile","stars":1,"street":"11 r. des Franciscains","postalCode":"68100","city":"Mulhouse"}
+{"name":"Le Petit Hôtel du Grand Large","stars":1,"street":"11 quai St-Ivy","postalCode":"56510","city":"Portivy"}
+{"name":"Le Clair de la Plume","stars":1,"street":"2 Place du Mail","postalCode":"26230","city":"Grignan"}
+{"name":"Yoann Conte","stars":2,"street":"13 Vieille-Route-des-Pensières","postalCode":"74290","city":"Veyrier-du-Lac"}
+{"name":"La Tour des Vents","stars":1,"street":"Le Moulin de Malfourat","postalCode":"24240","city":"Monbazillac"}
+{"name":"Aigue Marine","stars":1,"street":"5 r. M. -Berthelot","postalCode":"22220","city":"Tréguier"}
+{"name":"L'Amphitryon","stars":1,"street":"chemin de Gramont","postalCode":"31770","city":"Colomiers"}
+{"name":"Les Fresques","stars":1,"street":"13 Avenue des Mateirons","postalCode":"74500","city":"Évian-les-Bains"}
+{"name":"Le Moulin de la Gorce","stars":1,"street":"D17","postalCode":"87800","city":"La Roche-l'Abeille"}
+{"name":"Il Carpaccio","stars":1,"street":"37 avenue Hoche","postalCode":"75008","city":"Paris 08"}
+{"name":"Le Saison","stars":1,"street":"1 imp. du Vieux-Bourg","postalCode":"35760","city":"Saint-Grégoire"}
+{"name":"Régis et Jacques Marcon","stars":3,"street":"Larsiallas","postalCode":"43290","city":"SAINT-BONNET-LE-FROID"}
+{"name":"Jérôme Nutile - Le Mas de Boudan","stars":1,"street":"351 Chemin du Mas de Boudan","postalCode":"30000","city":"Nîmes"}
+{"name":"Agapé","stars":1,"street":"51 Rue Jouffroy-d'Abbans","postalCode":"75017","city":"Paris 17"}
+{"name":"La Gouesnière","stars":1,"street":"1 Le Limonay","postalCode":"35350","city":"Saint-Méloir-des-Ondes"}
+{"name":"Auberge des Templiers","stars":1,"street":"D2007","postalCode":"45290","city":"Les Bézards"}
+{"name":"La Table des Merville","stars":1,"street":"3 place Richard","postalCode":"31320","city":"Castanet-Tolosan"}
+{"name":"Raphaël Vionnet","stars":1,"street":"43 Avenue du Général Leclerc","postalCode":"74200","city":"Thonon-les-Bains"}
+{"name":"La Table de l'Alpaga","stars":1,"street":"66 Allée des Marmousets","postalCode":"74120","city":"Megève"}
+{"name":"Serge Vieira","stars":2,"street":"Château du Couffour","postalCode":"15110","city":"Chaudes-Aigues"}
+{"name":"Le Quinzième - Cyril Lignac","stars":1,"street":"14 rue Cauchy","postalCode":"75015","city":"Paris"}
+{"name":"Carré des Feuillants","stars":2,"street":"14 rue de Castiglione","postalCode":"75001","city":"Paris 01"}
+{"name":"Le Farçon","stars":1,"street":"immeuble la Kalinka","postalCode":"73125","city":"La Tania"}
+{"name":"Le Brittany","stars":1,"street":"bd Ste-Barbe","postalCode":"29681","city":"Roscoff"}
+{"name":"La Maison de Bournissac","stars":1,"street":"montée d'Eyragues","postalCode":"13550","city":"Les Paluds-des-Noves"}
+{"name":"Le Clos des Sens","stars":2,"street":"13 r. J. -Mermoz","postalCode":"74940","city":"Annecy"}
+{"name":"Les Rosiers","stars":1,"street":"32 av. Beau Soleil","postalCode":"64200","city":"Biarritz"}
+{"name":"Le Chateaubriand","stars":1,"street":"129 av. Parmentier","postalCode":"75011","city":"Paris"}
+{"name":"Ô Flaveurs","stars":1,"street":"Château de Chilly","postalCode":"74140","city":"Douvaine"}
+{"name":"Le Champ des Lunes","stars":1,"street":"route de Roquefraîche","postalCode":"84360","city":"Lauris"}
+{"name":"Les Pêcheurs","stars":1,"street":"10 boulevard du Maréchal-Juin","postalCode":"06600","city":"Antibes"}
+{"name":"Manoir de la Boulaie","stars":2,"street":"33 rue Chapelle St-Martin","postalCode":"44115","city":"HAUTE-GOULAINE"}
+{"name":"Le Vivarais","stars":1,"street":"5 avenue Expilly","postalCode":"07600","city":"VALS-LES-BAINS"}
+{"name":"Le Meurice Alain Ducasse","stars":2,"street":"228 Rue de Rivoli","postalCode":"75001","city":"Paris"}
+{"name":"La Scène Thélème","stars":1,"street":"18 Rue Troyon","postalCode":"75017","city":"PARIS"}
+{"name":"Divellec","stars":1,"street":"18 r. Fabert","postalCode":"75007","city":"Paris"}
+{"name":"Le Bénaton","stars":1,"street":"25 Rue du Faubourg-Bretonnière","postalCode":"21200","city":"BEAUNE"}
+{"name":"Cobéa","stars":1,"street":"11 r. Raymond Losserand","postalCode":"75014","city":"Paris 14"}
+{"name":"L'Atelier de Jean-Luc Rabanel","stars":2,"street":"7 r. des Carmes","postalCode":"13200","city":"Arles"}
+{"name":"Assiette Champenoise","stars":3,"street":"40 av. Paul Vaillant-Couturier","postalCode":"51430","city":"Tinqueux"}
+{"name":"Gill","stars":2,"street":"9 quai de la Bourse","postalCode":"76000","city":"Rouen"}
+{"name":"La Licorne Royale","stars":1,"street":"27 Place Isaac Benserade","postalCode":"27480","city":"Lyons-la-Forêt"}
+{"name":"Mère Brazier","stars":2,"street":"12 rue Royale","postalCode":"69001","city":"LYON"}
+{"name":"La Maison d'à Côté","stars":1,"street":"17 rue de Chambord","postalCode":"41350","city":"Montlivault"}
+{"name":"Le Pressoir","stars":1,"street":"7 r. de l'Hôpital","postalCode":"56890","city":"Saint-Avé"}
+{"name":"Le Figuier de St-Esprit","stars":1,"street":"7, Promenade Amiral de Grasse","postalCode":"06600","city":"Antibes"}
+{"name":"Chez Michèle","stars":1,"street":"57 rue Principale","postalCode":"57810","city":"Languimberg"}
+{"name":"Ima","stars":1,"street":"20 bd de la Tour-d'Auvergne","postalCode":"35000","city":"Rennes"}
+{"name":"Le Jardin des Plumes","stars":1,"street":"1 Rue du Milieu","postalCode":"27620","city":"Giverny"}
+{"name":"La Coquerie","stars":1,"street":"1 chemin du Cimetière-Marin","postalCode":"34200","city":"Sète"}
+{"name":"Bruno","stars":1,"street":"2350 route des Arcs, Campagne Mariette","postalCode":"83510","city":"Lorgues"}
+{"name":"Paul Bocuse","stars":3,"street":"40 Quai de la Plage","postalCode":"69660","city":"Collonges-au-Mont-d'Or"}
+{"name":"Baumanière 1850","stars":1,"street":"rte de Bellecôte","postalCode":"73120","city":"Courchevel 1850"}
+{"name":"L'Odas","stars":1,"street":"Passage Maurice Lenfant","postalCode":"76000","city":"Rouen"}
+{"name":"Les Terrasses de Lyon","stars":1,"street":"25, montée Saint BArthelémy","postalCode":"69005","city":"Lyon 05"}
+{"name":"Domaine des Séquoias","stars":1,"street":"54 Vie-de-Boussieu","postalCode":"38300","city":"Ruy"}
+{"name":"Jean-Luc Tartarin","stars":2,"street":"Square Saint-Roch","postalCode":"76600","city":"Le Havre"}
+{"name":"La Robe","stars":1,"street":"3 pl. Reveillère-Lepeaux","postalCode":"85600","city":"Montaigu"}
+{"name":"Ithurria","stars":1,"street":"pl. du Fronton","postalCode":"64250","city":"Ainhoa"}
+{"name":"La Palme d'Or","stars":2,"street":"73 Boulevard de la Croisette","postalCode":"06400","city":"Cannes"}
+{"name":"Le Patio","stars":1,"street":"10 bd de la Plage","postalCode":"33120","city":"Arcachon"}
+{"name":"Maximilien","stars":1,"street":"19a rte Ostheim","postalCode":"68340","city":"Zellenberg"}
+{"name":"La Coopérative","stars":1,"street":"2A Route de Caladroy","postalCode":"66720","city":"Bélesta"}
+{"name":"Le Magasin aux Vivres","stars":1,"street":"5 Avenue Ney","postalCode":"57000","city":"Metz"}
+{"name":"Maison Clovis","stars":1,"street":"19 bd Brotteaux","postalCode":"69006","city":"Lyon"}
+{"name":"Têtedoie","stars":1,"street":"4 Rue Professeur Pierre Marion","postalCode":"69005","city":"Lyon 05"}
+{"name":"St-James Paris","stars":1,"street":"43 av. Bugeaud","postalCode":"75116","city":"Paris"}
+{"name":"Le Taillevent","stars":2,"street":"15 Rue Lamennais","postalCode":"75008","city":"Paris"}
+{"name":"Le Raisin","stars":1,"street":"2 pl. M. -Poisat","postalCode":"01190","city":"Pont-de-Vaux"}
+{"name":"La Balette","stars":1,"street":"rte de Port-Vendres","postalCode":"66190","city":"Collioure"}
+{"name":"Pierre Reboul","stars":1,"street":"260 r. Guillaume-du-Vair","postalCode":"13546","city":"Aix-en-Provence"}
+{"name":"L'Impertinent","stars":1,"street":"5, rue d'Alsace","postalCode":"64200","city":"Biarritz"}
+{"name":"Le Belvédère","stars":1,"street":"11 rte du Maquis-Jean-Pierre","postalCode":"12340","city":"Bozouls"}
+{"name":"Cayola","stars":1,"street":"76 promenade de Cayola","postalCode":"85180","city":"Talmont-Saint-Hilaire"}
+{"name":"Montée","stars":1,"street":"9 r. Léopold-Robert","postalCode":"75014","city":"Paris"}
+{"name":"J.-M. Pérochon","stars":1,"street":"63 avenue de la Grand'Roche","postalCode":"85470","city":"Brétignolles-sur-Mer"}
+{"name":"L'Atelier du Peintre","stars":1,"street":"1 Rue Schongauer","postalCode":"68000","city":"Colmar"}
+{"name":"Anne de Bretagne","stars":2,"street":"163, Boulevard de la Tara","postalCode":"44770","city":"La Plaine-sur-Mer"}
+{"name":"Le Roc Alto","stars":1,"street":"Quartier La Ville","postalCode":"05350","city":"SAINT-VERAN"}
+{"name":"La Table des Cordeliers","stars":1,"street":"1 r. des Cordeliers","postalCode":"32100","city":"Condom"}
+{"name":"Les Chênes Verts","stars":1,"street":"rte de Villecroze","postalCode":"83690","city":"Tourtour"}
+{"name":"Michel Trama","stars":2,"street":"52 r. Royale","postalCode":"47270","city":"Puymirol"}
+{"name":"L'Aparté","stars":1,"street":"21 Rue de l’Europe","postalCode":"31850","city":"MONTRABE"}
+{"name":"La Liégeoise","stars":1,"street":"digue de mer","postalCode":"62930","city":"Wimereux"}
+{"name":"La Table de Franck Putelat","stars":2,"street":"80 chemin des Anglais","postalCode":"11000","city":"Carcassonne"}
+{"name":"Intuition","stars":1,"street":"1 r. Alsace-Lorraine","postalCode":"50000","city":"Saint-Lô"}
+{"name":"Numéro 3","stars":1,"street":"3 rue du Général de Gaulle","postalCode":"78490","city":"Le Tremblay-sur-Mauldre"}
+{"name":"Château de Sully","stars":1,"street":"D6","postalCode":"14400","city":"Sully"}
+{"name":"L'Almandin","stars":1,"street":"Boulevard de l'Almandin","postalCode":"66750","city":"Saint-Cyprien"}
+{"name":"L'Ekrin by Laurent Azoulay","stars":1,"street":"Route de la Montée","postalCode":"73550","city":"MERIBEL"}
+{"name":"La Table de La Butte","stars":1,"street":"10 rue de la Mer","postalCode":"29260","city":"PLOUIDER"}
+{"name":"Auberge de l'Abbaye","stars":1,"street":"47 place des anciens Combattants","postalCode":"01500","city":"Ambronay"}
+{"name":"L'O des Vignes","stars":1,"street":"r. du Bourg","postalCode":"71960","city":"Fuissé"}
+{"name":"Le Mascaret","stars":1,"street":"1 r. de Bas","postalCode":"50560","city":"Blainville-sur-Mer"}
+{"name":"La Table d'Uzès","stars":1,"street":"18 rue du Docteur Blanchard","postalCode":"30700","city":"Uzès"}
+{"name":"AM par Alexandre Mazzia","stars":1,"street":"9 rue François Rocca","postalCode":"13008","city":"Marseille"}
+{"name":"La Roya","stars":1,"street":"plage de la Roya","postalCode":"20217","city":"Saint-Florent"}
+{"name":"La Ville Blanche","stars":1,"street":"La Ville Blanche","postalCode":"22300","city":"Rospez"}
+{"name":"Hélène Darroze","stars":1,"street":"4 rue d'Assas","postalCode":"75006","city":"Paris 06"}
+{"name":"Fanny Rey & Jonathan Wahid","stars":1,"street":"12, boulevard Mirabeau","postalCode":"13210","city":"SAINT REMY DE PROVENCE"}
+{"name":"L'Océan","stars":1,"street":"43 bd Thiers","postalCode":"64500","city":"Saint-Jean-de-Luz"}
+{"name":"Lou Cigalon-Maison Martin","stars":1,"street":"6 bd Carnot","postalCode":"06560","city":"Valbonne"}
+{"name":"La Table de la Bergerie","stars":1,"street":"La Bergerie","postalCode":"49380","city":"Champ-sur-Layon"}
+{"name":"La Rotonde","stars":1,"street":"200 avenue du Casino","postalCode":"69890","city":"LA-TOUR-DE-SALVAGNY"}
+{"name":"L'Escarbille","stars":1,"street":"8 Rue de Vélizy","postalCode":"92190","city":"Meudon"}
+{"name":"Restaurant des Rois","stars":1,"street":"5 Boulevard du Maréchal Leclerc","postalCode":"06310","city":"Beaulieu-sur-Mer"}
+{"name":"Les Tablettes de Jean-Louis Nomicos","stars":1,"street":"16 Avenue Bugeaud","postalCode":"75016","city":"Paris"}
+{"name":"Le Hittau","stars":1,"street":"1 rue du Nouaou","postalCode":"40230","city":"SAINT-VINCENT-DE-TYROSSE"}
+{"name":"Les Bacchanales","stars":1,"street":"247 avenue de Provence","postalCode":"06140","city":"VENCE"}
+{"name":"Apicius","stars":1,"street":"20 r. d'Artois","postalCode":"75008","city":"PARIS"}
+{"name":"En Marge","stars":1,"street":"1204 route de la Croix-Falgarde","postalCode":"31320","city":"AUREVILLE"}
+{"name":"Le Strasbourg","stars":1,"street":"24 r. du Col. -Teyssier","postalCode":"57230","city":"Bitche"}
+{"name":"Thierry Drapeau","stars":2,"street":"La Chabotterie","postalCode":"85260","city":"Saint-Sulpice-le-Verdon"}
+{"name":"Le St-Placide","stars":1,"street":"6 place du poncel","postalCode":"35400","city":"Saint-Malo"}
+{"name":"Le Prince Noir - Vivien Durand","stars":1,"street":"1 rue du Prince Noir","postalCode":"33310","city":"Lormont"}
+{"name":"1741","stars":1,"street":"22 Quai des Bateliers","postalCode":"67000","city":"Strasbourg"}
+{"name":"Rackham","stars":1,"street":"27 pl. Lacaze Duthiers rčs de l'église","postalCode":"29680","city":"ROSCOFF"}
+{"name":"Azimut","stars":1,"street":"273 r. de la Madelon","postalCode":"73120","city":"Courchevel-Saint-Bon"}
+{"name":"Château de Vauchoux","stars":1,"street":"","postalCode":"70170","city":"Vauchoux"}
+{"name":"Maison Christian Étienne","stars":1,"street":"10 Rue de Mons","postalCode":"84000","city":"Avignon"}
+{"name":"L'Atelier d'Edmond","stars":2,"street":"au Fornet","postalCode":"73150","city":"Val-d'Isère"}
+{"name":"1131","stars":1,"street":"D 33","postalCode":"21360","city":"La Bussière-sur-Ouche"}
+{"name":"La Bergerie","stars":1,"street":"D999","postalCode":"63490","city":"Sarpoil"}
+{"name":"Le Fanal","stars":1,"street":"17 Avenue du Fontaulé","postalCode":"66650","city":"Banyuls-sur-Mer"}
+{"name":"1912","stars":1,"street":"bd de la Cahotte","postalCode":"14360","city":"Trouville-sur-Mer"}
+{"name":"Vieux Pont","stars":1,"street":"","postalCode":"12390","city":"Belcastel"}
+{"name":"114, Faubourg","stars":1,"street":"114 r. Fg St-Honoré","postalCode":"75008","city":"Paris 08"}
+{"name":"La Bastide de Moustiers","stars":1,"street":"Parc naturel régional du Verdon, Chemin de Quinson","postalCode":"04360","city":"Moustiers-Sainte-Marie"}
+{"name":"Sur Mesure par Thierry Marx","stars":2,"street":"251 Rue Saint Honoré","postalCode":"75001","city":"Paris"}
+{"name":"1217","stars":1,"street":"le bourg","postalCode":"69620","city":"Bagnols"}
+{"name":"Le Chiberta","stars":1,"street":"3 Rue Arsène Houssaye","postalCode":"75008","city":"Paris 08"}
 {"name":"Loiseau des Ducs","stars":1,"street":"3 Rue Vauban","postalCode":"21000","city":"Dijon"}
+{"name":"Le Domaine du Colombier","stars":1,"street":"270 Chemin de Malombre","postalCode":"26780","city":"Malataverne"}
+{"name":"L'Amphitryon","stars":1,"street":"127 r. du Col. -Müller","postalCode":"56100","city":"Lorient"}
+{"name":"La Grand'Vigne","stars":2,"street":"chemin de Smith-Haut-Lafitte","postalCode":"33650","city":"Martillac"}
+{"name":"Restaurant du Palais Royal","stars":1,"street":"110 Galerie de Valois - Jardin du Palais Royal","postalCode":"75001","city":"Paris 01"}
+{"name":"Lamartine","stars":1,"street":"Route du Tunnel du Chat","postalCode":"73370","city":"Le Bourget du Lac"}
+{"name":"La Réserve Rimbaud","stars":1,"street":"820 Avenue de Saint-Maur","postalCode":"34000","city":"Montpellier"}
+{"name":"Le Violon d'Ingres","stars":1,"street":"135 Rue Saint-Dominique","postalCode":"75007","city":"Paris"}
+{"name":"Auberge de la Mine","stars":1,"street":"le Gué-Plat","postalCode":"61450","city":"La Ferrière-aux-Étangs"}
+{"name":"Julien Binz","stars":1,"street":"7 Rue des Cigognes","postalCode":"68770","city":"Ammerschwihr"}
+{"name":"Le Chantecler","stars":2,"street":"37 Promenade des Anglais","postalCode":"06000","city":"NICE"}
+{"name":"L'Oustau de Baumanière","stars":2,"street":"Village des Baux-de-Provence","postalCode":"13520","city":"Les Baux-de-Provence"}
+{"name":"Dominique Bouchet","stars":1,"street":"11 Rue Treilhard","postalCode":"75008","city":"Paris"}
+{"name":"Clovis","stars":1,"street":"21 Grand-Rue","postalCode":"06140","city":"Tourrettes-sur-Loup"}
+{"name":"Initial","stars":1,"street":"24 Rue Saint-Manvieu","postalCode":"14000","city":"Caen"}
+{"name":"La Mare aux Oiseaux","stars":1,"street":"223 RUE DU CHEF DE L'ILE Fedrun","postalCode":"44720","city":"Saint-Joachim"}
+{"name":"La Marelle","stars":1,"street":"1593 av. de Lyon","postalCode":"01960","city":"PERONNAS"}
+{"name":"Le Grand Véfour","stars":2,"street":"17 rue de Beaujolais","postalCode":"75001","city":"Paris"}
+{"name":"Auberge du Dun","stars":1,"street":"3 rte de Dieppe","postalCode":"76740","city":"Le Bourg-Dun"}
+{"name":"La Gloire","stars":1,"street":"74 av. du Gén.-de-Gaulle","postalCode":"45200","city":"Montargis"}
+{"name":"Girardin","stars":1,"street":"19 Rue des Têtes","postalCode":"68000","city":"Colmar"}
+{"name":"Les Trois Dômes","stars":1,"street":"20 quai Gailleton","postalCode":"69002","city":"Lyon"}
+{"name":"Faventia","stars":1,"street":"3100 route de Bagnols-en-Forêt","postalCode":"83440","city":"Tourrettes"}
+{"name":"Le Relais Bernard Loiseau","stars":2,"street":"2, rue d'Argentine","postalCode":"21210","city":"Saulieu"}
+{"name":"Le Colombier","stars":1,"street":"r. Loucheur","postalCode":"76550","city":"Offranville"}
+{"name":"Palm Beach","stars":1,"street":"route des Iles Sanguinaires","postalCode":"20000","city":"Ajaccio"}
+{"name":"Le Neuvième Art","stars":2,"street":"173 r. Cuvier","postalCode":"69006","city":"Lyon"}
+{"name":"Le Candille","stars":1,"street":"bd C. Rebuffel","postalCode":"06250","city":"Mougins"}
+{"name":"Le Petit Nice","stars":3,"street":"Anse de Maldormé - Corniche J. F. Kennedy","postalCode":"13007","city":"Marseille 07"}
+{"name":"La Table du Connétable","stars":1,"street":"4 Rue du Connétable","postalCode":"60500","city":"Chantilly"}
+{"name":"Armani Ristorante","stars":1,"street":"149 Boulevard Saint-Germain","postalCode":"75006","city":"Paris"}
+{"name":"L'Épuisette","stars":1,"street":"158 Vallon-des-Auffes","postalCode":"13007","city":"Marseille"}
+{"name":"Le Refuge des Gourmets","stars":1,"street":"90 route des Framboises","postalCode":"74140","city":"Machilly"}
+{"name":"Auberge de la Diligence","stars":1,"street":"4 r. de la Libération","postalCode":"49440","city":"Loiré"}
+{"name":"Lucas Carton","stars":1,"street":"9 pl. de la Madeleine","postalCode":"75008","city":"Paris 08"}
+{"name":"Château de Pray","stars":1,"street":"Rue du Cèdre","postalCode":"37400","city":"Amboise"}
+{"name":"Le Prieuré","stars":1,"street":"r. de la Mairie","postalCode":"42820","city":"Ambierle"}
+{"name":"La Closerie","stars":1,"street":"bd des Platanes","postalCode":"84240","city":"Ansouis"}
+{"name":"Au Souper Fin","stars":1,"street":"1 rte de Clères","postalCode":"76690","city":"Frichemesnil"}
+{"name":"U Santa Marina","stars":1,"street":"Marina di Santa Giulia","postalCode":"20137","city":"Porto-Vecchio"}
+{"name":"La Merise","stars":1,"street":"7 r. d'Eschbach","postalCode":"67580","city":"Laubach"}
+{"name":"Le Pré - Xavier Beaudiment","stars":2,"street":"3 Route de la Baraque","postalCode":"63830","city":"Durtol"}
+{"name":"La Marine","stars":1,"street":"11 r. de Paris","postalCode":"50270","city":"Barneville-Carteret"}
+{"name":"Septime","stars":1,"street":"80 r. de Charonne","postalCode":"75011","city":"Paris"}
+{"name":"Le Montgomerie","stars":2,"street":"356 rte de l'Altiport","postalCode":"73120","city":"Courchevel 1850"}
+{"name":"Paloma","stars":2,"street":"47 Avenue du Moulin de la Croix","postalCode":"06250","city":"Mougins"}
+{"name":"L'Atelier Yssoirien","stars":1,"street":"39 Boulevard Triozon-Bayle","postalCode":"63500","city":"Issoire"}
+{"name":"G.a. au Manoir de Rétival","stars":1,"street":"2 rue St. Clair","postalCode":"76490","city":"Caudebec-en-Caux"}
+{"name":"Stéphane Carbone","stars":1,"street":"14 r. de Courtonne","postalCode":"14000","city":"Caen"}
+{"name":"SEPT","stars":1,"street":"7 pl. St-Sernin","postalCode":"31000","city":"Toulouse"}
+{"name":"Antoine","stars":1,"street":"10 av. de New-York","postalCode":"75116","city":"Paris 16"}
+{"name":"Villa Archange","stars":2,"street":"Rue de l'Ouest","postalCode":"06110","city":"Le Cannet"}
+{"name":"Le Kintessence","stars":2,"street":"Rue des Clarines","postalCode":"73120","city":"Courchevel 1850"}
+{"name":"Rodolphe","stars":1,"street":"35 r. Percière","postalCode":"76000","city":"Rouen"}
+{"name":"Relais Louis XIII","stars":1,"street":"8 Rue des Grands Augustins","postalCode":"75006","city":"Paris"}
+{"name":"Hostellerie Bérard","stars":1,"street":"Avenue Gabriel-Péri","postalCode":"83740","city":"LA-CADIERE-D'AZUR"}
+{"name":"La Table by La Villa","stars":1,"street":"chemin de Notre-Dame-de-la-Serra","postalCode":"20260","city":"Calvi"}
+{"name":"Le Manoir du Lys","stars":1,"street":"D235","postalCode":"61140","city":"Bagnoles-de-l'Orne"}
+{"name":"Pur' - Jean-François Rouquette","stars":1,"street":"5 r. de la Paix","postalCode":"75002","city":"Paris 02"}
+{"name":"Chapelle Saint-Martin","stars":1,"street":"33, Saint Martin du Fault","postalCode":"87510","city":"Nieul"}
+{"name":"Château d'Adoménil","stars":1,"street":"","postalCode":"54300","city":"Lunéville"}
+{"name":"Auberge des Saints Pères","stars":1,"street":"212 av. de Nonneville","postalCode":"93600","city":"Aulnay-sous-Bois"}
+{"name":"Auberge de Clochemerle","stars":1,"street":"Rue Gabriel-Chevallier","postalCode":"69460","city":"VAUX-EN-BEAUJOLAIS"}
+{"name":"Likoké","stars":1,"street":"7 rte de Païolive","postalCode":"07140","city":"Les Vans"}
+{"name":"Origine","stars":1,"street":"26 Rampe Cauchoise","postalCode":"76000","city":"Rouen"}
+{"name":"Hostellerie de Plaisance","stars":2,"street":"5 place du Clocher","postalCode":"33330","city":"Saint-Emilion"}
+{"name":"Le Grand Restaurant - Jean-François Piège","stars":2,"street":"7 r. d'Aguesseau","postalCode":"75008","city":"Paris"}
+{"name":"La Villa Madie","stars":2,"street":"av. du Revestel","postalCode":"13260","city":"Cassis"}
+{"name":"Au 14 Février","stars":1,"street":"36 r. du Bœuf","postalCode":"","city":"Lyon 05"}
+{"name":"Le Millénaire","stars":1,"street":"4 rue Bertin","postalCode":"51100","city":"Reims"}
+{"name":"Frédéric Simonin","stars":1,"street":"25 rue Bayen","postalCode":"75017","city":"Paris"}
+{"name":"Alan Geaam","stars":1,"street":"19 Rue Lauriston","postalCode":"75016","city":"Paris"}
+{"name":"Le Jardin de Benjamin","stars":1,"street":"Route de Salernes","postalCode":"83510","city":"Lorgues"}
+{"name":"La Bastide de Capelongue","stars":2,"street":"Chemin des Cabanes","postalCode":"84480","city":"Bonnieux"}
+{"name":"Les Explorateurs","stars":1,"street":"place du Slalom","postalCode":"73440","city":"VAL THORENS"}
+{"name":"Domaine de Clairefontaine","stars":1,"street":"chemin des Fontanettes","postalCode":"38121","city":"Chonas-l'Amballan"}
+{"name":"Auberge du Paradis","stars":1,"street":"Le Plâtre-Durand","postalCode":"71570","city":"Saint-Amour-Bellevue"}
+{"name":"La Table de l'Espadon","stars":2,"street":"15 Place Vendôme","postalCode":"75001","city":"Paris"}
+{"name":"Le Pêché Gourmand","stars":1,"street":"2 rte de Gap","postalCode":"05100","city":"Briançon"}
+{"name":"Jérôme Brochot","stars":1,"street":"Place Beaubernard","postalCode":"71300","city":"Montceau-les-Mines"}
+{"name":"La Pyramide-Patrick Henriroux","stars":2,"street":"14 Boulevard Fernand Point","postalCode":"38200","city":"Vienne"}
+{"name":"Le Bouche à Oreille","stars":1,"street":"11 r. de la Chapelle","postalCode":"91150","city":"Boutervilliers"}
+{"name":"Les Clefs d'Argent","stars":1,"street":"333 Avenue des Martyrs de la Résistance","postalCode":"40000","city":"Mont-de-Marsan"}
+{"name":"Auberge du Pont d'Acigné","stars":1,"street":"D392","postalCode":"35530","city":"Noyal-sur-Vilaine"}
+{"name":"Auguste","stars":1,"street":"54 r. Bourgogne","postalCode":"75007","city":"Paris 07"}
+{"name":"À Contre Sens","stars":1,"street":"8-10 r. des Croisiers","postalCode":"14000","city":"Caen"}
+{"name":"Yam'Tcha","stars":1,"street":"121 r. St-Honoré","postalCode":"75001","city":"Paris"}
+{"name":"La Promenade","stars":1,"street":"11 rue du Savoureulx","postalCode":"37350","city":"Le Petit-Pressigny"}
+{"name":"David Toutain","stars":1,"street":"29 r. Surcouf","postalCode":"75007","city":"Paris"}
+{"name":"Pertica","stars":1,"street":"15 pl. de la République","postalCode":"41100","city":"Vendôme"}
+{"name":"Stéphane Tournié - Les Jardins de l'Opéra","stars":1,"street":"1 place du Capitole","postalCode":"31000","city":"Toulouse"}
+{"name":"Villa René Lalique","stars":2,"street":"18 Rue Bellevue","postalCode":"67290","city":"Wingen-sur-Moder"}
+{"name":"Mavrommatis","stars":1,"street":"42 rue Daubenton","postalCode":"75005","city":"Paris 05"}
+{"name":"L'Émulsion","stars":1,"street":"57 rte de Lyon","postalCode":"38080","city":"Saint-Alban-de-Roche"}
+{"name":"Grand Hôtel du Lion d'Or","stars":1,"street":"69 r. Clemenceau","postalCode":"41200","city":"Romorantin-Lanthenay"}
+{"name":"Pages","stars":1,"street":"4 r. Auguste-Vacquerie","postalCode":"75016","city":"Paris"}
+{"name":"Le Moulin des Quatre Saisons","stars":1,"street":"r. Gallieni","postalCode":"72200","city":"La Flèche"}
+{"name":"Py-r","stars":1,"street":"19 descente de la Halle-aux-Poissons","postalCode":"31000","city":"Toulouse"}
+{"name":"Le Passe Temps","stars":1,"street":"52 Rue Tronchet","postalCode":"69006","city":"Lyon"}
+{"name":"Apicius","stars":1,"street":"Marché Saint Pierre 1 étage","postalCode":"63000","city":"Clermont-Ferrand"}
+{"name":"Le Park 45","stars":1,"street":"45 bd de la Croisette","postalCode":"06400","city":"Cannes"}
+{"name":"Auberge Grand'Maison","stars":1,"street":"1 r. Léon-le-Cerf","postalCode":"22530","city":"Mûr-de-Bretagne"}
+{"name":"Ken Kawasaki","stars":1,"street":"15 r. Caulaincourt","postalCode":"75018","city":"Paris"}
+{"name":"Xavier Mathieu","stars":1,"street":"Route de Murs","postalCode":"84220","city":"Joucas"}
+{"name":"MaSa","stars":1,"street":"112 avenue Victor-Hugo","postalCode":"92100","city":"Boulogne-Billancourt"}
+{"name":"Pierre","stars":1,"street":"7-9 rue Joseph Dufour","postalCode":"71000","city":"Mâcon"}
+{"name":"Ar Men Du","stars":1,"street":"47 rue des îles","postalCode":"29920","city":"Névez"}
+{"name":"La Madeleine","stars":1,"street":"1 Rue Alsace-Lorraine","postalCode":"89100","city":"Sens"}
+{"name":"Le Moulin du Roc","stars":1,"street":"Avenue Eugène Le Roy","postalCode":"24530","city":"Champagnac-de-Belair"}
+{"name":"La Table Breizh Café","stars":1,"street":"7 quai Thomas","postalCode":"35260","city":"Cancale"}
+{"name":"La Barbacane","stars":1,"street":"Place Auguste-Pierre-Pont","postalCode":"11000","city":"Carcassonne"}
+{"name":"L'Arcane","stars":1,"street":"39 Rue Lamarck","postalCode":"75018","city":"Paris"}
+{"name":"Kasbür","stars":1,"street":"8 Rue de Dettwiller","postalCode":"67700","city":"Monswiller"}
+{"name":"Flocons de Sel","stars":3,"street":"1775 rte du Leutaz","postalCode":"74120","city":"Megève"}
+{"name":"Auberge à la Bonne Idée","stars":1,"street":"3 rue des Meuniers","postalCode":"60350","city":"SAINT-JEAN-AUX-BOIS"}
+{"name":"Auberge Le Prieuré","stars":1,"street":"4 Grand'Rue","postalCode":"47310","city":"Moirax"}
+{"name":"Greuze","stars":1,"street":"1 r. A. Thibaudet","postalCode":"71700","city":"Tournus"}
+{"name":"Château du Mont Joly","stars":1,"street":"6 r. du Mont-Joly","postalCode":"39100","city":"Sampans"}
+{"name":"La Côte Saint-Jacques","stars":2,"street":"14 faubourg de Paris","postalCode":"89300","city":"Joigny"}
+{"name":"La Bonne Étape","stars":1,"street":"chemin du lac","postalCode":"04160","city":"Château-Arnoux"}
+{"name":"Patrick Jeffroy","stars":2,"street":"20 rue du Kelenn","postalCode":"29660","city":"Carantec"}
+{"name":"Table des Frères Ibarboure","stars":1,"street":"chemin Ttalienea","postalCode":"64210","city":"Bidart"}
+{"name":"Transparence \"La Table de Patrick Fréchin\"","stars":1,"street":"28 r. Stanislas","postalCode":"54000","city":"Nancy"}
+{"name":"L'Auberge de la Pomme","stars":1,"street":"44 rue de l' eure","postalCode":"27340","city":"Les Damps"}
+{"name":"Ivan Vautier","stars":1,"street":"3 avenue Henry-Chéron","postalCode":"14000","city":"Caen"}
+{"name":"La Table de Patrick Raingeard","stars":1,"street":"1312 av. Raymond-Poincaré","postalCode":"06360","city":"EZE-BORD-DE-MER"}
+{"name":"Aux Anges","stars":1,"street":"6 Place Georges Clemenceau","postalCode":"42300","city":"Roanne"}
+{"name":"L'Arôme","stars":1,"street":"3 rue St-Philippe-du-Roule","postalCode":"75008","city":"Paris 08"}
+{"name":"Saturne","stars":1,"street":"17 r. N.-D.-des-Victoires","postalCode":"75002","city":"Paris"}
+{"name":"L'Olivier","stars":1,"street":"25 Route des Carles","postalCode":"83990","city":"Saint-Tropez"}
+{"name":"La Petite Maison de Cucuron","stars":1,"street":"pl. de l'Étang","postalCode":"84160","city":"Cucuron"}
+{"name":"La Bastide St-Antoine","stars":1,"street":"48 av. Henri-Dunant","postalCode":"06130","city":"Grasse"}
+{"name":"Ed.Em","stars":1,"street":"4 imp. Chenevottes","postalCode":"21190","city":"Chassagne-Montrachet"}
+{"name":"La Grignotière","stars":1,"street":"6 Rue Jean Jaures","postalCode":"59590","city":"Raismes"}
+{"name":"L'Auberge des Glazicks","stars":2,"street":"7 rue de la Plage","postalCode":"29550","city":"PLOMODIERN"}
+{"name":"Le Parc Les Crayères","stars":2,"street":"64 Boulevard Henry Vasnier","postalCode":"51100","city":"Reims"}
+{"name":"La Scène","stars":1,"street":"33 Avenue George V","postalCode":"75008","city":"Paris"}
+{"name":"La Grenouillère","stars":2,"street":"19 r. de la Grenouillère","postalCode":"62170","city":"La Madelaine-sous-Montreuil"}
+{"name":"Ô Saveurs","stars":1,"street":"8 place Ormeaux au village","postalCode":"31180","city":"ROUFFIAC-TOLOSAN"}
+{"name":"Le Bec au Cauchois","stars":1,"street":"22 Rue André Fiquet","postalCode":"76540","city":"Valmont"}
+{"name":"Loiseau rive Gauche","stars":1,"street":"5 rue de Bourgogne","postalCode":"75007","city":"Paris 07"}
+{"name":"Alain Llorca","stars":1,"street":"350 Route de Saint-Paul","postalCode":"06480","city":"La Colle-sur-Loup"}
+{"name":"Le Cercle","stars":1,"street":"44 bd Lahitolle","postalCode":"18000","city":"Bourges"}
+{"name":"L'Archeste","stars":1,"street":"79 rue de la Tour","postalCode":"75116","city":"Paris"}
+{"name":"Le Carmin","stars":1,"street":"4B Place Carnot","postalCode":"21200","city":"Beaune"}
+{"name":"Le Haut-Allier","stars":1,"street":"LE PONT D ALLEYRAS","postalCode":"43580","city":"Alleyras"}
+{"name":"Les Cèdres","stars":2,"street":"25 Rue Henri MACHON","postalCode":"26600","city":"Granges-les-Beaumont"}
+{"name":"Le Georges","stars":1,"street":"22 pl. des Épars","postalCode":"28000","city":"CHARTRES"}
+{"name":"La Table de Chaintré","stars":1,"street":"72 pl. du Luminaire","postalCode":"71570","city":"Chaintré"}
+{"name":"Château de Mercuès","stars":1,"street":"Route du Château","postalCode":"46090","city":"Mercuès"}
+{"name":"Le Carré d'Alethius","stars":1,"street":"4 r. Paul-Bertois","postalCode":"07800","city":"Charmes-sur-Rhône"}
+{"name":"Georges Blanc","stars":3,"street":"pl. du Marché","postalCode":"01540","city":"Vonnas"}
+{"name":"Mickaël Féval","stars":1,"street":"11 Petite-Rue-St-Jean","postalCode":"13100","city":"Aix-en-Provence"}
+{"name":"Le M","stars":1,"street":"22 r. du Cdt-Drogou","postalCode":"29200","city":"Brest"}
+{"name":"Auberge La Pomme d'Api","stars":1,"street":"49 r. Verderel","postalCode":"29250","city":"Saint-Pol-de-Léon"}
+{"name":"La Maison dans le Parc","stars":1,"street":"3 r. Ste-Catherine","postalCode":"54000","city":"Nancy"}
+{"name":"Meulien","stars":1,"street":"1 bis av. des Alpes","postalCode":"71700","city":"Tournus"}
+{"name":"Sylvestre","stars":2,"street":"79 rue St-Dominique","postalCode":"75007","city":"Paris"}
+{"name":"La Ferme de l'Hospital","stars":1,"street":"rte du golf","postalCode":"74160","city":"Bossey"}
+{"name":"Alcyone","stars":1,"street":"1 Place Daviel","postalCode":"13002","city":"MARSEILLE"}
+{"name":"Hostellerie de Levernois","stars":1,"street":"15 r. du Golf","postalCode":"21200","city":"Levernois"}
+{"name":"Hostellerie du Rosenmeer","stars":1,"street":"45 avenue de la Gare","postalCode":"67560","city":"ROSHEIM"}
+{"name":"Auberge du Cellier","stars":1,"street":"1 Rue de Sainte-Eugénie","postalCode":"66720","city":"Montner"}
+{"name":"Le Chabichou","stars":2,"street":"90 Route des Chenus","postalCode":"73120","city":"Courchevel 1850"}
+{"name":"Le Gourmet de Sèze","stars":1,"street":"125 Rue de Sèze","postalCode":"69006","city":"Lyon"}
+{"name":"Le Baudelaire","stars":1,"street":"8 rue Duphot","postalCode":"75001","city":"Paris 01"}
+{"name":"Michel Sarran","stars":2,"street":"21 bd A.-Duportal","postalCode":"31000","city":"Toulouse"}
+{"name":"Le Mas du Langoustier","stars":1,"street":"","postalCode":"83400","city":"Hyères"}
+{"name":"La Palmeraie","stars":1,"street":"81 Boulevard de Gigaro","postalCode":"83420","city":"La Croix-Valmer"}
+{"name":"Le Puits du Trésor","stars":1,"street":"21 rte des Quatre-Châteaux","postalCode":"11600","city":"Lastours"}
+{"name":"La Fourchette du Printemps","stars":1,"street":"30 r. du Printemps","postalCode":"75017","city":"Paris"}
+{"name":"Auberge Frankenbourg","stars":1,"street":"13 r. Gén. de Gaulle","postalCode":"67730","city":"La Vancelle"}
+{"name":"La Nouvelle Auberge","stars":1,"street":"9 route Nationale","postalCode":"68230","city":"Wihr-au-Val"}
+{"name":"La Chaumière","stars":1,"street":"346 av. du Mar. -Juin","postalCode":"39100","city":"Dole"}
+{"name":"Le Corot","stars":1,"street":"55 Rue de Versailles","postalCode":"92410","city":"VILLE-D'AVRAY"}
+{"name":"Le Vieux Logis","stars":1,"street":"Le Bourg","postalCode":"24510","city":"Trémolat"}
+{"name":"Miraflores","stars":1,"street":"60 r. Garibaldi","postalCode":"69006","city":"Lyon"}
+{"name":"L'Abeille","stars":2,"street":"10 Avenue d'Iéna","postalCode":"75016","city":"Paris 16"}
+{"name":"Les Terrasses d'Uriage","stars":2,"street":"pl. Déesse-Hygie","postalCode":"38410","city":"Uriage-les-Bains"}
+{"name":"Le France","stars":1,"street":"8 place Cupillard","postalCode":"25130","city":"VILLERS-LE-LAC"}
+{"name":"Les Loges","stars":1,"street":"6 r. du Boeuf","postalCode":"69005","city":"Lyon 05"}
+{"name":"La Grange de Belle-Église","stars":1,"street":"28 bd René-Aimé-Lagabrielle","postalCode":"60540","city":"Belle-Église"}
+{"name":"Meurin","stars":2,"street":"Rue de Lillers","postalCode":"62350","city":"Busnes"}
+{"name":"Le Cerisier","stars":1,"street":"3 rue de la Gare","postalCode":"62840","city":"LAVENTIE"}
+{"name":"Les Fresques","stars":1,"street":"D18","postalCode":"24240","city":"Monestier"}
+{"name":"La Table Saint-Crescent","stars":1,"street":"route de Perpignan","postalCode":"11100","city":"Narbonne"}
+{"name":"Le Quincangrogne","stars":1,"street":"7 Rue de l'Abreuvoir","postalCode":"77400","city":"Dampmart"}
+{"name":"Le Musigny","stars":1,"street":"90 Avenue de Liege","postalCode":"59300","city":"Valenciennes"}
+{"name":"La Table du 11","stars":1,"street":"8 rue de la chancellerie","postalCode":"78000","city":"Versailles"}
+{"name":"Prairial","stars":1,"street":"11 Rue Chavanne","postalCode":"69001","city":"Lyon"}
+{"name":"Auberge du Vieux Puits","stars":3,"street":"5 Avenue Saint-Victor","postalCode":"11360","city":"Fontjoncouse"}
+{"name":"Le Moulin de l'Abbaye","stars":1,"street":"1 avenue Pierre de Bourdeilles","postalCode":"24310","city":"BRANTOME"}
+{"name":"L'Aubergade","stars":1,"street":"78 rte Nationale","postalCode":"80480","city":"Dury"}
+{"name":"Penati al Baretto","stars":1,"street":"9 rue Balzac","postalCode":"75008","city":"Paris 08"}
+{"name":"Atmosphères","stars":1,"street":"618 Route des Tournelles","postalCode":"73370","city":"Le Bourget-du-Lac"}
+{"name":"Le 7ème Continent","stars":1,"street":"35 av. Gén. -de-Gaulle","postalCode":"68170","city":"Rixheim"}
+{"name":"L'Étang du Moulin","stars":1,"street":"5 chemin de l'Etang du Moulin","postalCode":"25210","city":"Bonnétage"}
+{"name":"Louison","stars":1,"street":"2750 route de la cride","postalCode":"13610","city":"Le Puy-Sainte-Réparade"}
+{"name":"Le George","stars":1,"street":"31 Avenue George V","postalCode":"75008","city":"Paris"}
+{"name":"La Marine","stars":2,"street":"3 r. Marie-Lemonnier","postalCode":"85330","city":"L'Herbaudière"}
+{"name":"Domaine de Rochevilaine","stars":1,"street":"à la Pointe de Pen Lan","postalCode":"56190","city":"Billiers"}
+{"name":"Le Carrousel","stars":1,"street":"14 rue du Pont de Morge","postalCode":"63350","city":"MARINGUES"}
+{"name":"L'Atelier de Joël Robuchon - St-Germain","stars":2,"street":"5 r. de Montalembert","postalCode":"75007","city":"Paris"}
+{"name":"Maison Rostang","stars":2,"street":"20 rue Rennequin","postalCode":"75017","city":"Paris"}
+{"name":"Auberge du Bon Laboureur","stars":1,"street":"6 r. Dr Bretonneau","postalCode":"37150","city":"Chenonceaux"}
+{"name":"Le Pré du Moulin","stars":1,"street":"rte de Ste-Cécile-les-Vignes","postalCode":"84830","city":"Sérignan-du-Comtat"}
+{"name":"Quinsou","stars":1,"street":"33 r. de l'Abbé-Grégoire","postalCode":"75006","city":"Paris"}
+{"name":"Haut Bonheur de la Table","stars":1,"street":"18 Grand-Place","postalCode":"59670","city":"Cassel"}
+{"name":"Cyril Attrazic","stars":1,"street":"10 rte du Languedoc","postalCode":"48130","city":"Aumont-Aubrac"}
+{"name":"Hervé Busset","stars":1,"street":"D901","postalCode":"12320","city":"Conques"}
+{"name":"Jin","stars":1,"street":"6 Rue de la Sourdière","postalCode":"75001","city":"Paris"}
+{"name":"Henri et Joseph","stars":1,"street":"4 r. Léo-le-Bourgo","postalCode":"56100","city":"Lorient"}
+{"name":"Akrame","stars":1,"street":"7 r. Tronchet","postalCode":"75008","city":"Paris"}
+{"name":"Le Grand Cap","stars":1,"street":"chemin du Phare","postalCode":"11370","city":"Leucate"}
+{"name":"Mirazur","stars":2,"street":"30, Avenue Aristide Briand","postalCode":"06500","city":"Menton"}
+{"name":"Une Île","stars":1,"street":"9 r. Max-Richard","postalCode":"49000","city":"Angers"}
+{"name":"Dyades au Domaine des Étangs","stars":1,"street":"Les Etangs","postalCode":"16310","city":"MASSIGNAC"}
+{"name":"Quai des Saveurs","stars":1,"street":"69 rue de la Gare","postalCode":"57300","city":"Hagondange"}
+{"name":"Le St-Martin","stars":1,"street":"1 r. du Gén.-Leclerc","postalCode":"25200","city":"Montbéliard"}
+{"name":"Château de Mirambeau","stars":1,"street":"1 Avenue des Comtes Duchatel","postalCode":"17150","city":"Mirambeau"}
+{"name":"La Grande Cascade","stars":1,"street":"Bois de Boulogne, Carrefour de Longchamp","postalCode":"75016","city":"Paris"}
+{"name":"Hostellerie la Montagne","stars":1,"street":"10 rue Pisseloup","postalCode":"52330","city":"COLOMBEY-LES-DEUX-EGLISES"}
+{"name":"Hostellerie Les Gorges de Pennafort","stars":1,"street":"8660 RD 25","postalCode":"83830","city":"Callas"}
+{"name":"Pont de l'Ouysse","stars":1,"street":"D23","postalCode":"46200","city":"Lacave"}
+{"name":"La Table d'Olivier","stars":1,"street":"3 r. St-Ambroise","postalCode":"19100","city":"Brive-la-Gaillarde"}
+{"name":"L'Hysope","stars":1,"street":"25 r. de l'Aurore","postalCode":"17220","city":"La Jarrie"}
+{"name":"L'Auberge Basque","stars":1,"street":"quartier Helbarron","postalCode":"64310","city":"Saint-Pée-sur-Nivelle"}
+{"name":"Auberge de la Charme","stars":1,"street":"12 r. de la Charme","postalCode":"21370","city":"Prenois"}
+{"name":"Le Puits St-Jacques","stars":2,"street":"av. Victor-Capoul","postalCode":"32600","city":"Pujaudran"}
+{"name":"La Chèvre d'Or","stars":2,"street":"r. du Barri","postalCode":"06360","city":"Èze"}
+{"name":"Val d'Auge","stars":1,"street":"805 av. du Gén.-de-Gaulle","postalCode":"59910","city":"Bondues"}
+{"name":"Auberge de la Tour","stars":1,"street":"Place de la Fontaine","postalCode":"15220","city":"MARCOLES"}
+{"name":"Les Pyrénées","stars":1,"street":"19 pl. Ch.-de-Gaulle","postalCode":"64220","city":"Saint-Jean-Pied-de-Port"}
+{"name":"Les Tables de Gaspard","stars":1,"street":"r. Principale","postalCode":"05600","city":"St-Crépin"}
+{"name":"Au Déjeuner de Sousceyrac","stars":1,"street":"r. Pierre-Benoit","postalCode":"46190","city":"Sousceyrac"}
+{"name":"Garance","stars":1,"street":"34 r. St-Dominique","postalCode":"75007","city":"Paris"}
+{"name":"Neige d'Été","stars":1,"street":"12 Rue de l'Amiral Roussin","postalCode":"75015","city":"Paris 15"}
+{"name":"Le P'tit Polyte","stars":1,"street":"2 Rue de la Chapelle","postalCode":"38860","city":"Les Deux Alpes"}
+{"name":"L'Éveil des Sens","stars":1,"street":"429 bd Paul-Lintier","postalCode":"53100","city":"Mayenne"}
+{"name":"Les Jardins de l'Espadon","stars":1,"street":"15 place Vendôme","postalCode":"75001","city":"Paris"}
+{"name":"Le Pavillon","stars":1,"street":"av. du Verger","postalCode":"62520","city":"Le Touquet-Paris-Plage"}
+{"name":"Au Crocodile","stars":1,"street":"10 rue de L'Outre","postalCode":"67000","city":"STRASBOURG"}
+{"name":"Alléno Paris au Pavillon Ledoyen","stars":3,"street":"8 avenue Dutuit","postalCode":"75008","city":"Paris"}
+{"name":"Umami","stars":1,"street":"8 r. des Dentelles","postalCode":"67000","city":"Strasbourg"}
+{"name":"Le Grand Cerf","stars":1,"street":"50 rte Nationale","postalCode":"51500","city":"Montchenot"}
+{"name":"Le Coquillage","stars":1,"street":"Lieu-dit Le Buot","postalCode":"35350","city":"Saint-Méloir-des-Ondes"}
+{"name":"L'Aromate","stars":1,"street":"2 r. Gustave Deloye","postalCode":"06000","city":"Nice"}
+{"name":"Restaurant H","stars":1,"street":"13 r. Jean-Beausire","postalCode":"75004","city":"Paris"}
+{"name":"Le Kléber","stars":1,"street":"6 r. A. -Dumont","postalCode":"26400","city":"Crest"}
+{"name":"Le Sérac","stars":1,"street":"22 r. de la Comtesse","postalCode":"74170","city":"Saint-Gervais-les-Bains"}
+{"name":"Le Castellaras","stars":1,"street":"461 chemin Peymeyan","postalCode":"83440","city":"Fayence"}
+{"name":"Maison Jeunet","stars":2,"street":"9 r. de l'Hôtel-de-Ville","postalCode":"39600","city":"Arbois"}
+{"name":"Maison Lameloise","stars":3,"street":"36 pl. d'Armes","postalCode":"71150","city":"Chagny"}
+{"name":"L'Orangerie","stars":1,"street":"31 Avenue George-V","postalCode":"75008","city":"Paris"}
+{"name":"Le Relais des Moines","stars":1,"street":"route de Ste-Roseline","postalCode":"83460","city":"Les Arcs"}
+{"name":"Les Morainières","stars":2,"street":"route de Marétel","postalCode":"73170","city":"Jongieux"}
+{"name":"Le Cap","stars":1,"street":"71 Boulevard du Général-de-Gaulle","postalCode":"06230","city":"SAINT-JEAN-CAP-FERRAT"}
+{"name":"Sushi B","stars":1,"street":"5 r. Rameau","postalCode":"75002","city":"Paris"}
+{"name":"Le Favre d'Anne","stars":1,"street":"21 bd du Mar.-Foch","postalCode":"49000","city":"Angers"}
+{"name":"René et Maxime Meilleur","stars":3,"street":"Saint Marcel","postalCode":"73440","city":"Saint-Martin-de-Belleville"}
+{"name":"Passage 53","stars":2,"street":"53 passage des Panoramas","postalCode":"75002","city":"Paris"}
+{"name":"Aida","stars":1,"street":"1 r. Pierre Leroux","postalCode":"75007","city":"Paris 07"}
+{"name":"Le Cloître","stars":1,"street":"Le Cloitre","postalCode":"04300","city":"Mane"}
+{"name":"Le Clos St-Pierre","stars":1,"street":"pl. de la Mairie","postalCode":"06650","city":"Le Rouret"}
+{"name":"Racine","stars":1,"street":"6 pl. Godinot","postalCode":"51100","city":"Reims"}
+{"name":"Le Marcq","stars":1,"street":"944 av. de la République","postalCode":"59700","city":"Marcq-en-Barœul"}
+{"name":"Maison Crouzil et Hôtel L'Écrin","stars":1,"street":"20 les Quais","postalCode":"22130","city":"Plancoët"}
+{"name":"Le Bon Accueil","stars":1,"street":"32 Grande-Rue","postalCode":"25160","city":"Malbuisson"}
+{"name":"Logis de la Cadène","stars":1,"street":"Place du Marche au Bois","postalCode":"33330","city":"Saint Emilion"}
+{"name":"Dominique Bucaille","stars":1,"street":"715 av. des Savels","postalCode":"04100","city":"Manosque"}
+{"name":"La Galinette","stars":1,"street":"23 r. Jean Payra","postalCode":"66000","city":"Perpignan"}
+{"name":"La Table du Gourmet","stars":1,"street":"5 rue 1ère Armée","postalCode":"68340","city":"Riquewihr"}
+{"name":"Jérôme Feck","stars":1,"street":"19 pl. Mgr-Tissier","postalCode":"51000","city":"Châlons-en-Champagne"}
+{"name":"Pierre Gagnaire","stars":3,"street":"6 Rue Balzac","postalCode":"75008","city":"Paris 08"}
+{"name":"Loiseau des Vignes","stars":1,"street":"31 Rue Jean Francois Maufoux","postalCode":"21200","city":"Beaune"}
+{"name":"La Marande","stars":1,"street":"lieu-dit Mirande","postalCode":"71260","city":"Montbellet"}
+{"name":"Hostellerie de l'Abbaye de la Celle","stars":1,"street":"10 Place Général de Gaulle","postalCode":"83170","city":"La Celle"}
+{"name":"Auberge St-Jean","stars":1,"street":"8 r. du Pont","postalCode":"33420","city":"Saint-Jean-de-Blaignac"}
+{"name":"Les Genêts","stars":1,"street":"21 bis Rue de l'Océan","postalCode":"85470","city":"Brem-sur-Mer"}
+{"name":"Avel Vor","stars":1,"street":"25 r. de Locmalo","postalCode":"56290","city":"Port-Louis"}
+{"name":"L'Orée de la Forêt","stars":1,"street":"255 r. de la Forêt","postalCode":"60600","city":"Étouy"}
+{"name":"Le Prieuré","stars":1,"street":"7, place du Chapitre","postalCode":"30400","city":"Villeneuve-lès-Avignon"}
+{"name":"Allium","stars":1,"street":"88 bd de Créac'h-Gwen","postalCode":"29000","city":"Quimper"}
+{"name":"Le Pavé d'Auge","stars":1,"street":"D49","postalCode":"14430","city":"Beuvron-en-Auge"}
+{"name":"Le Pot d'Étain","stars":1,"street":"4 av. de la République","postalCode":"90400","city":"Danjoutin"}
+{"name":"Château de la Treyne","stars":1,"street":"","postalCode":"46200","city":"Lacave"}
+{"name":"Étincelles - La Gentilhommière","stars":1,"street":"","postalCode":"24440","city":"Sainte-Sabine"}
+{"name":"Le Pousse-Pied","stars":1,"street":"84 bd des Vendéens","postalCode":"85360","city":"La Tranche-sur-Mer"}
+{"name":"Le Gabriel","stars":2,"street":"42 Avenue Gabriel","postalCode":"75008","city":"Paris"}
+{"name":"Le Lido","stars":1,"street":"42 av. Napoléon-III","postalCode":"20110","city":"Propriano"}
+{"name":"Château de Codignat","stars":1,"street":"Bort l'Etang","postalCode":"63190","city":"Bort-l'Étang"}
+{"name":"Guy Lassausaie","stars":2,"street":"r. de Belle-Sise","postalCode":"69380","city":"Chasselay"}
+{"name":"Gavroche","stars":1,"street":"4 r. Klein","postalCode":"67000","city":"Strasbourg"}
+{"name":"Brikéténia","stars":1,"street":"142 r. de l'Église","postalCode":"64210","city":"Guéthary"}
+{"name":"Astrance","stars":3,"street":"4 r. Beethoven","postalCode":"75016","city":"Paris"}
+{"name":"Alain Ducasse au Plaza Athénée","stars":3,"street":"25 avenue Montaigne","postalCode":"75008","city":"Paris"}
+{"name":"Aux Pesked","stars":1,"street":"59 Rue du Légué","postalCode":"22000","city":"Saint-Brieuc"}
+{"name":"Étude","stars":1,"street":"14 r. Bouquet-de-Longchamp","postalCode":"75016","city":"Paris"}
+{"name":"Entre Vigne et Garrigue","stars":1,"street":"600 route de Saint Bruno","postalCode":"30131","city":"Pujaut"}
+{"name":"Le Belrose","stars":1,"street":"Boulevard des Crêtes","postalCode":"83580","city":"Gassin"}
+{"name":"Le Camélia","stars":1,"street":"7 quai Georges Clemenceau","postalCode":"78380","city":"Bougival"}
+{"name":"Nakatani","stars":1,"street":"27 Rue Pierre Leroux","postalCode":"75007","city":"PARIS"}
+{"name":"L'Amaryllis","stars":1,"street":"chemin de Martorey","postalCode":"71100","city":"Saint-Rémy"}
+{"name":"Hostellerie Jérôme","stars":2,"street":"20 r. Comte de Cessole","postalCode":"06320","city":"La Turbie"}
+{"name":"Benoit","stars":1,"street":"20 Rue St-Martin","postalCode":"75004","city":"Paris 04"}
+{"name":"William Frachot","stars":2,"street":"5 rue Michelet","postalCode":"21000","city":"DIJON"}
+{"name":"ES","stars":1,"street":"91 r. de Grenelle","postalCode":"75007","city":"Paris"}
+{"name":"Au 14 Février","stars":2,"street":"Le Plâtre-Durand","postalCode":"71570","city":"Saint-Amour-Bellevue"}
+{"name":"JAN","stars":1,"street":"12 Rue Lascaris","postalCode":"06000","city":"Nice"}
+{"name":"L'Oasis","stars":2,"street":"6 rue Jean-Honoré Carle","postalCode":"06210","city":"La Napoule"}
+{"name":"La Chassagnette","stars":1,"street":"route du Sambuc","postalCode":"13200","city":"ARLES"}
+{"name":"Roscanvec","stars":1,"street":"17 r. des Halles","postalCode":"56000","city":"Vannes"}
+{"name":"Au Trou Gascon","stars":1,"street":"40 rue Taine","postalCode":"75012","city":"Paris"}
+{"name":"Le Village","stars":1,"street":"3 Grande-Rue","postalCode":"78160","city":"Marly-le-Roi"}
+{"name":"Pierre Orsi","stars":1,"street":"Place Kléber","postalCode":"69006","city":"Lyon 06"}
+{"name":"Les Ducs de Lorraine","stars":1,"street":"5 av. Provence","postalCode":"88000","city":"Épinal"}
+{"name":"Les Berceaux","stars":1,"street":"13 rue des Berceaux","postalCode":"51200","city":"Épernay"}
+{"name":"La Gourmandière - La Table d'Olivier","stars":1,"street":"D126","postalCode":"56000","city":"Vannes"}
+{"name":"L'Alchémille","stars":1,"street":"53 rte de Lapoutroie","postalCode":"68240","city":"Kaysersberg"}
+{"name":"Les Prés d'Eugénie - Michel Guérard","stars":3,"street":"pl. de l'Impératrice","postalCode":"40320","city":"Eugénie-les-Bains"}
+{"name":"I Salti","stars":1,"street":"route du Reginu","postalCode":"20226","city":"Belgodère"}
+{"name":"Le Domaine de la Corniche","stars":1,"street":"5 rte de la Corniche","postalCode":"78270","city":"Rolleboise"}
+{"name":"Au Vieux Couvent","stars":1,"street":"6 r. des Chanoines","postalCode":"67860","city":"Rhinau"}
+{"name":"La Lorraine","stars":1,"street":"80 rue Principale","postalCode":"57330","city":"Zoufftgen"}
+{"name":"Le Saint-Martin","stars":1,"street":"Avenue des Templiers","postalCode":"06140","city":"Vence"}
+{"name":"Le Kaïku","stars":1,"street":"17 r. de la République","postalCode":"64500","city":"Saint-Jean-de-Luz"}
+{"name":"L'Essentiel","stars":1,"street":"29 Rue Mirabeau","postalCode":"14800","city":"DEAUVILLE"}
+{"name":"Le Jules Verne","stars":1,"street":"2<E>ème</E> étage Tour Eiffel","postalCode":"75007","city":"Paris"}
+{"name":"Pertinence","stars":1,"street":"29 r. de l'Exposition","postalCode":"75007","city":"Paris"}
+{"name":"Le Lièvre Gourmand","stars":1,"street":"28 quai du Châtelet","postalCode":"45000","city":"Orléans"}
+{"name":"La Ribaudière","stars":1,"street":"2 pl. du Port","postalCode":"16200","city":"Bourg-Charente"}
+{"name":"Helen","stars":1,"street":"3 r.Berryer","postalCode":"75008","city":"Paris"}
+{"name":"Albert 1er","stars":2,"street":"38 rte du Bouchet","postalCode":"74400","city":"Chamonix-Mont-Blanc"}
+{"name":"Le Vivier","stars":1,"street":"800 cours F. Peyre (rte de Carpentras)","postalCode":"84800","city":"L'Isle-sur-la-Sorgue"}
+{"name":"La Maison des Bois - Marc Veyrat","stars":3,"street":"Chemin Rural de Manigod au Col de la Croix Fry","postalCode":"74230","city":"Manigod"}
+{"name":"Flaveur","stars":2,"street":"25 Rue Gubernatis","postalCode":"06000","city":"Nice"}
+{"name":"La Dame de Pic","stars":1,"street":"20 Rue du Louvre","postalCode":"75001","city":"Paris 01"}
+{"name":"Palégrié","stars":1,"street":"Les Ritons","postalCode":"38250","city":"Corrençon-en-Vercors"}
+{"name":"Alexandre","stars":2,"street":"2 rue Xavier Tronc","postalCode":"30128","city":"Garons"}
+{"name":"Château de Courban","stars":1,"street":"7 rue du Lavoir","postalCode":"21520","city":"Courban"}
+{"name":"La Matelote","stars":1,"street":"80 Boulevard Ste Beuve","postalCode":"62200","city":"BOULOGNE-SUR-MER"}
+{"name":"La Renaissance","stars":1,"street":"20 av. 2e-Division-Blindée","postalCode":"61200","city":"Argentan"}
+{"name":"Auberge La Fenière","stars":1,"street":"D943","postalCode":"84160","city":"Cadenet"}
+{"name":"Le Moulin d'Alotz","stars":1,"street":"chemin Alotz-Errota","postalCode":"64200","city":"Alotz"}
+{"name":"L'Esquisse","stars":1,"street":"21 rue Royale","postalCode":"74000","city":"Annecy"}
+{"name":"Auberge St-Walfrid","stars":1,"street":"58 r. de Grosbliederstroff","postalCode":"57200","city":"Sarreguemines"}
+{"name":"Le Clocher des Pères","stars":1,"street":"D213","postalCode":"73130","city":"Saint-Martin-sur-la-Chambre"}
+{"name":"64° Le Restaurant","stars":2,"street":"9-13 Rue du Général de Gaulle","postalCode":"68240","city":"Kaysersberg"}
+{"name":"Restaurant de Lauzun","stars":1,"street":"3 bd de l'Esplanade","postalCode":"34150","city":"Gignac"}
+{"name":"Le Skiff Club","stars":1,"street":"1 av. Louis-Gaume","postalCode":"33260","city":"La Teste-de-Buch"}
+{"name":"La Table d'Eugène","stars":1,"street":"18 r. Eugène-Sue","postalCode":"75018","city":"Paris"}
+{"name":"Le Gindreau","stars":2,"street":"D5","postalCode":"46150","city":"Saint-Médard"}
+{"name":"L'Auberge de Bagatelle","stars":1,"street":"489 av. Bollée","postalCode":"72000","city":"Le Mans"}
+{"name":"Les Trois Rochers","stars":1,"street":"16 rue du Phare","postalCode":"29120","city":"Sainte-Marine"}
+{"name":"La Bonne Auberge","stars":1,"street":"15 r. Nationale","postalCode":"57350","city":"Stiring-Wendel"}
+{"name":"Gordon Ramsay au Trianon","stars":1,"street":"1 bd de la Reine","postalCode":"78000","city":"Versailles"}
+{"name":"Côté Jardin","stars":1,"street":"14 rte de Bourges","postalCode":"45500","city":"Gien"}
+{"name":"Toya","stars":1,"street":"av. Jean-Monnet","postalCode":"57380","city":"Faulquemont"}
+{"name":"Maximin Hellio","stars":1,"street":"64 Rue Gambetta","postalCode":"14800","city":"DEAUVILLE"}
+{"name":"Maison Prévôt","stars":1,"street":"353 av. de Verdun","postalCode":"84300","city":"Cavaillon"}
+{"name":"Auberge au Boeuf","stars":1,"street":"Rue de l'Eglise","postalCode":"67770","city":"Sessenheim"}
+{"name":"Pèir","stars":1,"street":"r. de la Combe","postalCode":"84220","city":"Gordes"}
+{"name":"Le Chiquito","stars":1,"street":"3 r. de l'Oise, La Bonneville","postalCode":"95540","city":"Méry-sur-Oise"}
+{"name":"Gaya Rive Gauche par Pierre Gagnaire","stars":1,"street":"44 r. du Bac","postalCode":"75007","city":"Paris"}
+{"name":"Ze Kitchen Galerie","stars":1,"street":"4 r. des Grands-Augustins","postalCode":"75006","city":"Paris"}
+{"name":"La Rastègue","stars":1,"street":"48 bd du Levant","postalCode":"83230","city":"Bormes-les-Mimosas"}
+{"name":"Domaine d'Auriac","stars":1,"street":"Route de Saint-Hilaire","postalCode":"11000","city":"Carcassonne"}
+{"name":"Le Bistrot de Lagarde","stars":1,"street":"rte d'Apt","postalCode":"84400","city":"Lagarde-d'Apt"}
+{"name":"L'Atelier de Gaztelur","stars":1,"street":"Chemin de Gastelhur","postalCode":"64200","city":"Arcangues"}
+{"name":"Les Climats","stars":1,"street":"41 rue de Lille","postalCode":"75007","city":"Paris 07"}
+{"name":"La Promenade","stars":1,"street":"2 promenade Jean-Jaurès","postalCode":"31590","city":"Verfeil"}
+{"name":"En Pleine Nature","stars":1,"street":"6 pl. de la Mairie","postalCode":"31130","city":"Fonsegrives"}
+{"name":"Mon Plaisir","stars":1,"street":"22 lieu-dit Journal","postalCode":"25190","city":"Chamesol"}
+{"name":"La Grande Maison de Bernard Magrez","stars":2,"street":"10 Rue Labottière","postalCode":"33000","city":"Bordeaux"}
+{"name":"Table - Bruno Verjus","stars":1,"street":"3 r. de Prague","postalCode":"75012","city":"Paris"}
+{"name":"Le Cerf","stars":1,"street":"30 r. du Gén.-de-Gaulle","postalCode":"67520","city":"Marlenheim"}
+{"name":"Arpège","stars":3,"street":"84 Rue de Varenne","postalCode":"75007","city":"Paris"}
+{"name":"Christophe Bacquié","stars":3,"street":"Hotel du Castellet Route des Hauts du Camp","postalCode":"83330","city":"Le Castellet"}
+{"name":"Relais de la Poste","stars":2,"street":"24 avenue de Maremne","postalCode":"40140","city":"Magescq"}
+{"name":"L'Ambroisie","stars":3,"street":"9 Place des Vosges","postalCode":"75004","city":"Paris"}
+{"name":"Aux Terrasses","stars":1,"street":"18 av. du 23-Janvier","postalCode":"71700","city":"Tournus"}
+{"name":"Jean Chauvel","stars":1,"street":"33 av. Général-Leclerc","postalCode":"92100","city":"Boulogne-Billancourt"}
+{"name":"Le Gambetta","stars":1,"street":"12 r. Gambetta","postalCode":"49400","city":"Saumur"}
+{"name":"Dan B. - La Table de Ventabren","stars":1,"street":"r. F. -Mistral","postalCode":"13122","city":"Ventabren"}
+{"name":"Flaveurs","stars":1,"street":"32 Grande-Rue","postalCode":"26000","city":"Valence"}
+{"name":"Buerehiesel","stars":1,"street":"dans le parc de l'Orangerie","postalCode":"67000","city":"Strasbourg"}
+{"name":"Elsa","stars":1,"street":"Monte-Carlo Beach - Avenue Princesse Grace","postalCode":"06190","city":"Roquebrune Cap-Martin"}
+{"name":"Auberge du Cheval Blanc","stars":2,"street":"4 Route de Wissembourg","postalCode":"67510","city":"Lembach"}
+{"name":"Le Bois sans Feuilles","stars":3,"street":"728 Route de Villerest","postalCode":"42155","city":"Ouches"}
+{"name":"La Passagère","stars":1,"street":"33 boulevard E. -Baudoin","postalCode":"06160","city":"Juan-les-Pins"}
+{"name":"Guy Savoy","stars":3,"street":"Monnaie de Paris11 Quai de Conti","postalCode":"75006","city":"Paris"}
+{"name":"Auberge Tiegezh","stars":1,"street":"7 Place de la Gare","postalCode":"56380","city":"Guer"}
+{"name":"La Voile","stars":1,"street":"chemin de la Quessine","postalCode":"83350","city":"Ramatuelle"}
+{"name":"Le Jasmin","stars":1,"street":"Lieu-dit Lalande","postalCode":"47140","city":"Saint-Sylvestre-sur-Lot"}
+{"name":"Copenhague","stars":1,"street":"142 AVENUE DES CHAMPS ELYSEES","postalCode":"75008","city":"PARIS"}
+{"name":"Fontevraud Le Restaurant","stars":1,"street":"38 rue St-Jean-de-l'Habit","postalCode":"49590","city":"FONTEVRAUD-L'ABBAYE"}
+{"name":"Le Pergolèse","stars":1,"street":"40 Rue Pergolèse","postalCode":"75116","city":"Paris"}
+{"name":"Les Voiles d'Or","stars":1,"street":"2 chemin de la Falaise","postalCode":"76200","city":"Dieppe"}
+{"name":"Château Blanchard","stars":1,"street":"36 rte de St-Galmier","postalCode":"42140","city":"Chazelles-sur-Lyon"}
+{"name":"Le Sénéchal","stars":1,"street":"Sauveterre de Rouergue","postalCode":"12800","city":"Sauveterre-de-Rouergue"}
+{"name":"Jérémy Galvan","stars":1,"street":"Rue du Boeuf","postalCode":"69005","city":"Lyon 05"}
+{"name":"Le Château de Sable","stars":1,"street":"38 r. de l'Europe","postalCode":"29840","city":"Porspoder"}
+{"name":"Le 1947","stars":3,"street":"Cheval Blanc Courchevel - Le Jardin Alpin","postalCode":"73120","city":"Courchevel 1850"}
+{"name":"Le Pily","stars":1,"street":"39 Grande-Rue","postalCode":"50100","city":"Cherbourg-en-Cotentin"}
+{"name":"Auberge de la Brie","stars":1,"street":"14 av. Alphonse Boulingre","postalCode":"77860","city":"Couilly-Pont-aux-Dames"}
+{"name":"Mariottat","stars":1,"street":"25 r. L.-Vivent","postalCode":"47000","city":"Agen"}
+{"name":"Shang Palace","stars":1,"street":"10 Avenue d'Iéna","postalCode":"75016","city":"Paris 16"}
+{"name":"Auberge de l'Ill","stars":3,"street":"2 rue de Collonges-au-Mont d'Or","postalCode":"68970","city":"Illhaeusern"}
+{"name":"Maison Kieny","stars":1,"street":"7 Rue du Général de Gaulle","postalCode":"68400","city":"Riedisheim"}
+{"name":"La Table de Manville","stars":1,"street":"Domaine de Manville - D27","postalCode":"13520","city":"LES-BAUX-DE-PROVENCE"}
+{"name":"Casadelmar","stars":2,"street":"Route de la Plage de Palombaggia","postalCode":"20137","city":"Porto-Vecchio"}
+{"name":"Le Beaulieu","stars":1,"street":"34 Bis Place République","postalCode":"72000","city":"Le Mans"}
+{"name":"Auberge du Vert Mont","stars":1,"street":"1318 r. du Mont-Noir","postalCode":"59299","city":"Boeschepe"}
+{"name":"Les Hautes Roches","stars":1,"street":"86 quai de Loire","postalCode":"37210","city":"Rochecorbon"}
+{"name":"L'Écrin","stars":1,"street":"10 place de la Concorde","postalCode":"75008","city":"Paris"}
+{"name":"Le Cinq","stars":3,"street":"31 av. George V","postalCode":"75008","city":"Paris 08"}
+{"name":"SaQuaNa","stars":2,"street":"22 pl. Hamelin","postalCode":"14600","city":"Honfleur"}
+{"name":"Au 14 Février","stars":1,"street":"2 r. du Portail","postalCode":"36100","city":"Saint-Valentin"}
+{"name":"L'Aquarelle","stars":1,"street":"71 A rte du Montil","postalCode":"17920","city":"Breuillet"}
+{"name":"Le Foch","stars":1,"street":"37 bd Foch","postalCode":"51100","city":"Reims"}
+{"name":"Skab","stars":1,"street":"7 Rue de la République","postalCode":"30000","city":"nimes"}
+{"name":"Domaine des Hauts de Loire","stars":2,"street":"79 rue Gilbert Navard","postalCode":"41150","city":"Onzain"}
+{"name":"La Cachette","stars":1,"street":"Rue des Cévennes","postalCode":"26000","city":"Valence"}
+{"name":"Jean Sulpice","stars":2,"street":"303 rte du Port","postalCode":"74290","city":"Talloires"}
+{"name":"La Vague d'Or","stars":3,"street":"Plage de Bouillabaisse","postalCode":"83990","city":"Saint-Tropez"}
+{"name":"Les Bories","stars":1,"street":"rte de l'Abbaye de Sénanque","postalCode":"84220","city":"Gordes"}
+{"name":"Château Cordeillan-Bages","stars":1,"street":"Route des châteaux","postalCode":"33250","city":"Pauillac"}
+{"name":"La Fourchette des Ducs","stars":2,"street":"6 r. de la Gare","postalCode":"67210","city":"Obernai"}
+{"name":"Lasserre","stars":1,"street":"17 Avenue F. -D. -Roosevelt","postalCode":"75008","city":"Paris 08"}
+{"name":"Takao Takano","stars":2,"street":"33 Rue Malesherbes","postalCode":"69006","city":"Lyon 06"}
+{"name":"L'Arnsbourg","stars":1,"street":"Untermuhlthal","postalCode":"57230","city":"Baerenthal"}
+{"name":"Radio","stars":1,"street":"43 av. P. et M.-Curie","postalCode":"63400","city":"Chamalières"}
+{"name":"Le Grand Bleu","stars":1,"street":"43 av. de la Gare","postalCode":"24200","city":"Sarlat-la-Canéda"}
+{"name":"Kei","stars":2,"street":"5 rue du Coq-Héron","postalCode":"75001","city":"Paris 01"}
+{"name":"L'Essentiel","stars":1,"street":"8 r. de la Clarté","postalCode":"24000","city":"Périgueux"}
+{"name":"Le Bistro des Saveurs","stars":1,"street":"35 Rue de Sélestat","postalCode":"67210","city":"Obernai"}
+{"name":"L'Atelier de Joël Robuchon - Étoile","stars":1,"street":"133 av. des Champs-Élysées","postalCode":"75008","city":"Paris"}
+{"name":"Auberge St-Laurent","stars":1,"street":"1 rue Fontaine","postalCode":"68510","city":"Sierentz"}
+{"name":"Le Pressoir d'Argent - Gordon Ramsay","stars":2,"street":"2,5 Place de la Comédie","postalCode":"33000","city":"Bordeaux"}
+{"name":"L'Atlantide 1874 - Maison Guého","stars":1,"street":"5 r. de l'Hermitage","postalCode":"44100","city":"Nantes"}
+{"name":"Une Table au Sud","stars":1,"street":"2 quai du Port","postalCode":"13002","city":"Marseille"}
+{"name":"Jean-Claude Leclerc","stars":1,"street":"12 rue St-Adjutor","postalCode":"63000","city":"Clermont-Ferrand"}
+{"name":"La Tour","stars":1,"street":"31 Nouvelle-Place","postalCode":"18300","city":"Sancerre"}
+{"name":"La Table des Blot - Auberge du Château","stars":1,"street":"1 Grande-Rue","postalCode":"78720","city":"Dampierre-en-Yvelines"}
+{"name":"Assa","stars":1,"street":"189 Quai Ulysse Besnard","postalCode":"41000","city":"Blois"}
+{"name":"Terre-Mer","stars":1,"street":"16 r. du Jeu-de-Paume","postalCode":"56400","city":"Auray"}
+{"name":"Le Pavillon des Boulevards","stars":1,"street":"120 r. Croix-de-Seguey","postalCode":"33000","city":"Bordeaux"}
+{"name":"Restaurant du Château","stars":1,"street":"15 avenue des Reynats","postalCode":"24650","city":"Chancelade"}
+{"name":"Les Terraillers","stars":1,"street":"11 Route Chemin-Neuf","postalCode":"06410","city":"Biot"}
+{"name":"Alliance","stars":1,"street":"5 Rue de Poissy","postalCode":"75005","city":"Paris"}
+{"name":"Pic","stars":3,"street":"285 avenue Victor Hugo","postalCode":"26000","city":"Valence"}
+{"name":"Michel Chabran - La Grande Table","stars":1,"street":"29 Avenue du Quarante-Cinquième Parallèle","postalCode":"26600","city":"Pont-de-l'Isère"}
+{"name":"La Table de Nans","stars":1,"street":"corniche du Liouquet","postalCode":"13600","city":"La Ciotat"}
+{"name":"L'Axel","stars":1,"street":"43 r. de France","postalCode":"77300","city":"Fontainebleau"}
+{"name":"Laurent","stars":1,"street":"41 av. Gabriel","postalCode":"75008","city":"Paris"}
+{"name":"Les Trois Soleils de Montal","stars":1,"street":"St-Jean-Lespinasse","postalCode":"46400","city":"Saint-Céré"}
+{"name":"Christopher Coutanceau","stars":2,"street":"Promenade de la Concurrence","postalCode":"17000","city":"La Rochelle"}
+{"name":"La Vieille Tour","stars":1,"street":"75 r. de la Tour","postalCode":"22190","city":"Plérin"}
+{"name":"Tour d'Argent","stars":1,"street":"15 quai de la Tournelle","postalCode":"75005","city":"Paris"}
+{"name":"Garopapilles","stars":1,"street":"62 r. Abbé-de-L'Epée","postalCode":"33000","city":"Bordeaux"}
+{"name":"Maison Decoret","stars":1,"street":"15 rue du Parc","postalCode":"03200","city":"Vichy"}
+{"name":"Épicure","stars":3,"street":"112 r. Fg St-Honoré","postalCode":"75008","city":"Paris 08"}

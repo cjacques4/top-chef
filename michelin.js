@@ -1,5 +1,22 @@
 var numberofpages=0;
-var request = require("request");
+const request = require('request');
+
+/*const configuration = {
+  'uri': 'https://www.lafourchette.com/ville/paris/415144',
+  'headers': {
+    'cookie' :'datadome=AHrlqAAAAAMAk1KBa1nxjRIALtotww=='
+  }
+};
+
+request(configuration, (err, response, body) => {
+  console.log(body);
+});
+
+request(configuration, (err, response, body) => {
+  console.log(body);
+});*/
+
+
 var cheerio = require("cheerio");
 var fs = require('fs');
 
@@ -40,7 +57,7 @@ console.log("Nombre de pages : "+numberofpages);
           //var href = link.attr("href"); 
           //console.log(text + " -> " +"https://restaurant.michelin.fr" + href);
 
-          fs.appendFileSync("./LinkRestaurants.txt", "https://restaurant.michelin.fr" + url + "\r\n", null, 'utf8', (err) => {
+          fs.appendFileSync("./LinkRestaurants2.txt", "https://restaurant.michelin.fr" + url + "\r\n", null, 'utf8', (err) => {
             if (err) console.log(err)
 
           });
@@ -63,7 +80,7 @@ function getNumberOfStars(iconName) {
   }
 }
 function getDescription() {
-  var contents = fs.readFileSync("./LinkRestaurants.txt", "utf8");
+  var contents = fs.readFileSync("./LinkRestaurants2.txt", "utf8");
   var line = contents.split("\n");
   for (var i = 0; i <line.length - 1; i++) {
     request({
